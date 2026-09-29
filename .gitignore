@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+# Cypress artifacts
+**/cypress/screenshots/
+**/cypress/videos/
+**/cypress/downloads/
+
+# OS / editor
+.DS_Store
+.vscode/
